@@ -1,4 +1,4 @@
 # _config.yml
 title: AI-Architect Curriculum
 description: Cloud Security & Infrastructure Architecture Guide
-theme: architect
+remote_theme: architect
